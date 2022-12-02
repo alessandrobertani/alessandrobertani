@@ -1,6 +1,5 @@
 - 🇮🇹 I'm Italian
-- 📚 I'm currently an M.Sc student in Computer Science and Engineering @ Politecnico di Milano
-- 👀 I’m interested in computer security, specifically in hardware security and memory corruption errors.
+- 📚 I'm currently a Ph.D. student in Computer Security @ Politecnico di Milano
 
 <!---
 alessandrobertani/alessandrobertani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
