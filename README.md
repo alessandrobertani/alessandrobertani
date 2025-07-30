@@ -1,5 +1,5 @@
-- 🇮🇹 I'm Italian
-- 📚 I'm currently a Ph.D. student in Computer Security @ Politecnico di Milano
+- 🇮🇹 Italian
+- 📚 Ph.D. student in Computer Security @ Politecnico di Milano
 
 <!---
 alessandrobertani/alessandrobertani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
