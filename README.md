@@ -1,5 +1,5 @@
 - 🇮🇹 Italian
-- 📚 Ph.D. student in Computer Security @ Politecnico di Milano
+- 📚 Post-doctoral Research Associate @ Durham University
 
 <!---
 alessandrobertani/alessandrobertani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
